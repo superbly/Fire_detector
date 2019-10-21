@@ -82,4 +82,4 @@ if( GAS_sensor_ouput_avg <= 100 ) { // 평상시
 
 
 ## 시연영상  
-![test](https://www.youtube.com/watch?v=_LN49H3cqSY&feature=youtu.be)
+[![이미지 텍스트](https://www.youtube.com/watch?v=_LN49H3cqSY&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=_LN49H3cqSY&feature=youtu.be)
